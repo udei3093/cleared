@@ -1,6 +1,33 @@
 {
-  "last_checked": "2026-10-07T13:36:27Z",
+  "last_checked": "2026-10-08T13:38:11Z",
   "items": [
+    {
+      "document_number": "2026-20672",
+      "title": "Certain Mobile Electronic Devices and Components Thereof; Institution of Investigation",
+      "type": "Notice",
+      "agency": "International Trade Commission",
+      "publication_date": "2026-10-08",
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20672/certain-mobile-electronic-devices-and-components-thereof-institution-of-investigation",
+      "summary": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on September 3, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of trinamiX Sensing LLC of Austin, Texas and trinamiX GmbH of Germany. A supplement to the complaint was filed on September 17, 2026. Th"
+    },
+    {
+      "document_number": "2026-20650",
+      "title": "Low-Value Shipments",
+      "type": "Proposed Rule",
+      "agency": "Homeland Security Department",
+      "publication_date": "2026-10-08",
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20650/low-value-shipments",
+      "summary": "This document proposes to amend the U.S. Customs and Border Protection regulations to modify filing requirements for informal entries of goods valued at $2,500 or less and to establish a new electronic informal entry type for merchandise entering through the mail environment. This document also proposes other related c"
+    },
+    {
+      "document_number": "2026-20615",
+      "title": "Request for Comments on the Effect of the European Union's Carbon Border Adjustment Mechanism and the Proposals To Expand Coverage on U.S. Trade",
+      "type": "Notice",
+      "agency": "Trade Representative, Office of United States",
+      "publication_date": "2026-10-08",
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20615/request-for-comments-on-the-effect-of-the-european-unions-carbon-border-adjustment-mechanism-and-the",
+      "summary": "The Office of the United States Trade Representative (USTR) invites comments regarding the current and potential impact of the European Union's (EU) Carbon Border Adjustment Mechanism (CBAM) on U.S. producers, including small- and medium-sized producers; workers; U.S. direct and indirect exports; and overall U.S. trade"
+    },
     {
       "document_number": "2026-20511",
       "title": "Notice of Conforming Amendment to Product Exclusion: China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation",
@@ -333,33 +360,6 @@
       "publication_date": "2026-09-09",
       "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18385/request-for-comments-regarding-implementation-of-19-usc-1338g",
       "summary": "Pursuant to section 338(g) of the Tariff Act of 1930, the United States International Trade Commission (Commission) has a duty to ascertain and at all times to be informed of discriminations against the commerce of the United States pursuant to section 338(a), (b), and (e) and to provide the President with this informa"
-    },
-    {
-      "document_number": "2026-18249",
-      "title": "Certain Walk-Behind Lawn Mowers and Parts Thereof From the People's Republic of China and the Socialist Republic of Vietnam: Final Results of Sunset Review and Revocation of Orders",
-      "type": "Notice",
-      "agency": "Commerce Department",
-      "publication_date": "2026-09-08",
-      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18249/certain-walk-behind-lawn-mowers-and-parts-thereof-from-the-peoples-republic-of-china-and-the",
-      "summary": "On June 1, 2026, the U.S. Department of Commerce (Commerce) initiated the first sunset review of antidumping duty (AD) and countervailing duty (CVD) orders on certain walk-behind lawn mowers and parts thereof (lawn mowers) from the People's Republic of China (China) and the AD order on lawn mowers from the Socialist Re"
-    },
-    {
-      "document_number": "2026-17926",
-      "title": "Heightened Import Disclosures for Supply Chain Visibility",
-      "type": "Proposed Rule",
-      "agency": "U.S. Customs and Border Protection",
-      "publication_date": "2026-09-02",
-      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17926/heightened-import-disclosures-for-supply-chain-visibility",
-      "summary": "CBP is considering new requirements for visibility into the parties involved in importation, tracing technology for supply chains, and foreign export documentation \u2014 aimed at detecting illicit transshipment."
-    },
-    {
-      "document_number": "2026-17390",
-      "title": "Automated Commercial Environment (ACE) Electronic Export Manifest for Rail Cargo",
-      "type": "Rule",
-      "agency": "Homeland Security Department",
-      "publication_date": "2026-08-26",
-      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17390/automated-commercial-environment-ace-electronic-export-manifest-for-rail-cargo",
-      "summary": "U.S. Customs and Border Protection (CBP) is revising its regulations pursuant to the Trade Act of 2002 requiring the transmission of export manifest data electronically in the Automated Commercial Environment (ACE) for cargo transported by rail for any train departing the United States. This rule mandates the electroni"
     }
   ]
 }
