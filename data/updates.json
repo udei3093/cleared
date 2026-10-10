@@ -1,6 +1,15 @@
 {
-  "last_checked": "2026-10-09T13:38:05Z",
+  "last_checked": "2026-10-10T13:33:06Z",
   "items": [
+    {
+      "document_number": "2026-20884",
+      "title": "Advance Traveler Information for Rail",
+      "type": "Proposed Rule",
+      "agency": "Homeland Security Department",
+      "publication_date": "2026-10-13",
+      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20884/advance-traveler-information-for-rail",
+      "summary": "U.S. Customs and Border Protection (CBP) is proposing to require rail carriers to transmit advance electronic traveler information to CBP for any individual (crew and passengers) who is arriving in or departing from the United States on board a train. The rail carrier also would be required to transmit an advance notic"
+    },
     {
       "document_number": "2026-20672",
       "title": "Certain Mobile Electronic Devices and Components Thereof; Institution of Investigation",
@@ -351,15 +360,6 @@
       "publication_date": "2026-09-09",
       "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18302/certain-glow-fish-tape-systems-safety-helmet-systems-and-components-thereof-notice-of-a-commission",
       "summary": "Notice is hereby given that the U.S. International Trade Commission (\"the Commission\") has determined to review in part a final initial determination (\"FID\") issued by the presiding chief administrative law judge's (\"CALJ\") in the above-captioned investigation finding a violation of section 337 of the Tariff Act of 193"
-    },
-    {
-      "document_number": "2026-18385",
-      "title": "Request for Comments Regarding Implementation of 19 U.S.C. 1338(g)",
-      "type": "Notice",
-      "agency": "International Trade Commission",
-      "publication_date": "2026-09-09",
-      "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18385/request-for-comments-regarding-implementation-of-19-usc-1338g",
-      "summary": "Pursuant to section 338(g) of the Tariff Act of 1930, the United States International Trade Commission (Commission) has a duty to ascertain and at all times to be informed of discriminations against the commerce of the United States pursuant to section 338(a), (b), and (e) and to provide the President with this informa"
     }
   ]
 }
