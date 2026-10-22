@@ -1,6 +1,24 @@
 {
-  "last_checked": "2026-10-21T18:06:14Z",
+  "last_checked": "2026-10-22T18:01:48Z",
   "items": [
+    {
+      "document_number": "2026-21570",
+      "title": "Modification of the Test of the New Electronic Informal Entry Process for Mail",
+      "type": "Notice",
+      "agency": "Homeland Security Department",
+      "publication_date": "2026-10-22",
+      "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21570/modification-of-the-test-of-the-new-electronic-informal-entry-process-for-mail",
+      "summary": "This document announces that U.S. Customs and Border Protection (CBP) is modifying the test of the new electronic informal entry type for merchandise entering the United States through the international mail process to permit transmission of the entry with or without electronic Partner Government Agency (PGA) data."
+    },
+    {
+      "document_number": "2026-21600",
+      "title": "Indefinite Suspension of the De Minimis Exemption for Mail Shipments and New Postal Informal Entry Process; Delayed Compliance Extension",
+      "type": "Rule",
+      "agency": "Homeland Security Department",
+      "publication_date": "2026-10-22",
+      "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21600/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry",
+      "summary": "This document announces that U.S. Customs and Border Protection (CBP) will extend the compliance date for the regulatory provisions mandating the formal entry of merchandise arriving through the international postal network that is subject to partner government agency requirements, subject to duties under Chapter 98 or"
+    },
     {
       "document_number": "2026-21458",
       "title": "Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From Georgia and India; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
@@ -342,24 +360,6 @@
       "publication_date": "2026-09-24",
       "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19537/measures-to-restrict-stockpiling-of-polysilicon-and-polysilicon-derivatives-under-proclamation-11052",
       "summary": "On August 6, 2026, the President issued Proclamation 11052, \"Adjusting Imports of Polysilicon and Its Derivatives Into the United States\" (Proclamation 11052), ordering the Secretary of Commerce (Secretary) to take action to restrict imports by a company if he determines the company is stockpiling polysilicon or polysi"
-    },
-    {
-      "document_number": "2026-19498",
-      "title": "Guidance and Procedures for Implementing Tariff Adjustments for Specialty Pharmaceuticals and Associated Pharmaceutical Ingredients and Technical Corrections to the Harmonized Tariff Schedule of the United States for Duties Imposed Under Proclamation 11020",
-      "type": "Notice",
-      "agency": "Commerce Department",
-      "publication_date": "2026-09-23",
-      "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19498/guidance-and-procedures-for-implementing-tariff-adjustments-for-specialty-pharmaceuticals-and",
-      "summary": "This notice defines the pharmaceutical products and lists the jurisdictions that are eligible to receive an ad valorem tariff rate of zero pursuant to Presidential Proclamation 11020 of April 2, 2026, \"Adjusting Imports of Pharmaceuticals and Pharmaceutical Ingredients Into the United States,\" (Proclamation 11020). The"
-    },
-    {
-      "document_number": "2026-19414",
-      "title": "Electronic Export Manifest for Truck Cargo Test",
-      "type": "Notice",
-      "agency": "Homeland Security Department",
-      "publication_date": "2026-09-23",
-      "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19414/electronic-export-manifest-for-truck-cargo-test",
-      "summary": "This document announces that U.S. Customs and Border Protection (CBP) will conduct an Automated Commercial Environment (ACE) Electronic Export Manifest (EEM) for Truck Cargo Test. The ACE EEM for Truck Cargo Test is a voluntary test in which truck export participants agree to the submission of certain limited export ma"
     }
   ]
 }
