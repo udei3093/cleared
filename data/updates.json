@@ -1,6 +1,24 @@
 {
-  "last_checked": "2026-11-07T18:04:09Z",
+  "last_checked": "2026-11-08T18:23:10Z",
   "items": [
+    {
+      "document_number": "2026-22786",
+      "title": "60-Day Notice of Proposed Information Collection: Shrimp Exporter's/Importer's Declaration",
+      "type": "Notice",
+      "agency": "State Department",
+      "publication_date": "2026-11-09",
+      "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22786/60-day-notice-of-proposed-information-collection-shrimp-exportersimporters-declaration",
+      "summary": "The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below. In accordance with the Paperwork Reduction Act of 1995, we are requesting comments on this collection from all interested individuals and organizations. The purpose of this notice is to allo"
+    },
+    {
+      "document_number": "2026-22750",
+      "title": "Calendar Year 2027 Home Health Prospective Payment System (HH PPS) Rate Update; Requirements for the HH Quality Reporting Program and the Expanded HH Value-Based Purchasing Model; Medicare Provider Enrollment, Durable Medical Equipment (DME), and DME, Prosthetics, Orthotics, and Supplies (DMEPOS) Policies",
+      "type": "Rule",
+      "agency": "Health and Human Services Department",
+      "publication_date": "2026-11-09",
+      "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22750/calendar-year-2027-home-health-prospective-payment-system-hh-pps-rate-update-requirements-for-the-hh",
+      "summary": "This final rule sets forth routine updates to the Medicare home health payment rates in accordance with existing statutory and regulatory requirements. In addition, this final rule discusses the behavior adjustments and finalizes a temporary behavior adjustment. It also finalizes the recalibrated case-mix weights and u"
+    },
     {
       "document_number": "2026-22735",
       "title": "Heightened Requirements for Foreign Importers of Record",
@@ -342,24 +360,6 @@
       "publication_date": "2026-10-05",
       "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20375/interest-rate-paid-on-cash-deposited-to-secure-us-immigration-and-customs-enforcement-immigration",
       "summary": "For the period beginning October 1, 2026, and ending on January 31, 2027, the U.S. Immigration and Customs Enforcement Immigration Bond interest rate is 3 per centum per annum."
-    },
-    {
-      "document_number": "2026-20367",
-      "title": "Agency Information Collection Activities: Revision of a Currently Approved Collection Suspicious/Criminal Activity Tip Reporting",
-      "type": "Notice",
-      "agency": "Homeland Security Department",
-      "publication_date": "2026-10-05",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20367/agency-information-collection-activities-revision-of-a-currently-approved-collection",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995 the Department of Homeland Security (DHS), U.S. Immigration and Customs Enforcement (ICE) will submit the following Information Collection Request (ICR) to the Office of Management and Budget (OMB) for review and clearance. This information collection was pre"
-    },
-    {
-      "document_number": "2026-20229",
-      "title": "Agency Information Collection Activities; New Collection of Information; Client Representative Technical Assistance Portal (CR-TAP)",
-      "type": "Notice",
-      "agency": "Homeland Security Department",
-      "publication_date": "2026-10-02",
-      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20229/agency-information-collection-activities-new-collection-of-information-client-representative",
-      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the "
     }
   ]
 }
